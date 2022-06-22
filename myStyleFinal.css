@@ -1,0 +1,174 @@
+
+body
+{
+	
+padding: 20px; 
+margin: 2px 2px;
+      background-color: #051622;
+	  color:#DEB992;
+
+    font-family:arial, helvetica, sans-serif;  
+    font-weight:bold;
+}
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 14px;
+}
+.heading{
+	
+	font-size: 40px;
+	text-align:center;
+}
+
+input, textarea
+{
+    border-radius:5px;
+	text-align: center;
+}
+.roundCorner  
+{  
+    border-radius: 25px;  
+    background-color: #4F81BD;  
+    color:#FFFFFF;  
+    text-align :center;  
+    font-family:arial, helvetica, sans-serif;  
+    padding: 5px 10px 10px 10px;  
+    font-weight:bold;  
+    width:100px;  
+    height:30px;  
+}  
+////https://designshack.net/articles/trends/best-website-color-schemes/#:~:text=One%20of%20the%20biggest%20trends,with%20a%20more%20modern%20touch.
+
+
+
+
+
+
+
+a:link, a:visited 
+{
+  
+  color: #1BA098;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active 
+{
+  
+  color: #1BA098;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+#navBar
+{
+  border-radius: 25px;
+  padding: 20px; 
+  width: 80%;
+  height: 30px; 
+margin:20px;  
+	
+	
+	
+}
+#container
+{
+	
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+
+	
+}
+
+
+.btn-success {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 0px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  height:20px;
+}
+
+.btn-Blue {
+	background-color: #008CBA;
+border: none;
+  color: white;
+  padding: 0px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  height:14px;
+
+
+} /* Blue */
+.btn-Red {
+background-color: #f44336;
+border: none;
+  color: white;
+  padding: 0px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  height:14px;
+  } 
+  /* Red */ 
+.btn-Gray {
+background-color:#3c3c3c;
+border: none;
+  color: white;
+  padding: 0px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  height:14px;
+  } 
+  .btn-Pink {
+background-color:#66004d;
+border: none;
+  color: white;
+  padding: 0px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+  height:14px;
+  } 
+

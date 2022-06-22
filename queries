@@ -1,0 +1,23 @@
+SELECT 
+    books.bookid,books.title
+FROM
+    books
+WHERE
+    bookid IN (SELECT 
+            bookid
+        FROM
+            userbooks
+        WHERE
+            bookid = '3');
+			//////////////////////////////////
+			
+			SELECT books.bookid,books.title,books.photo,books.publisher,userbooks.userid,userbooks.bookid FROM books INNER JOIN userbooks ON books.bookid=userbooks.bookid
+			<body>
+<iframe src="http://ipaddress/file.pdf" width="1000" height="1000"></iframe>
+</body>
+
+https://stackoverflow.com/questions/29787283/in-tcpdf-how-to-get-current-page-number-as-integer
+https://tcpdf.org/
+https://www.youtube.com/watch?v=aejuduUtBjQ
+
+https://www.etutorialspoint.com/index.php/186-how-to-display-pdf-file-in-web-page-from-database-using-php
