@@ -1,5 +1,6 @@
 
 <?php 
+//not working properly please use addBooks2.php instead of this
 require_once('fpdf/fpdf.php');
     require_once('fpdi/src/autoload.php');
 include '../config.php';
